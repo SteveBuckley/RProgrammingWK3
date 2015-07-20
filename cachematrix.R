@@ -1,7 +1,7 @@
 ## Creates a list of getters and setters to allow the caching 
 ## of matrix inverses
 
-## usage example:  
+## usage example: mat <- makeCacheMatrix((matrix(c(1:3,5,5:9),3,3))  
 
 
 makeCacheMatrix <- function(x = matrix()) {
