@@ -1,7 +1,7 @@
 # RProgrammingWK3
 Contains code submitted for the R Programming Course Week 3
 
-Sample results
+Sample results: sorry about the proportional spacing
 
 > mat <- makeCacheMatrix((matrix(c(1:3,5,5:9),3,3)))  
 > mat$get()  
